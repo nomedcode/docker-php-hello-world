@@ -19,7 +19,7 @@ docker-php-hello-world/
 ## Prerequisites
 
 Ensure you have the following installed and running on your local machine:
-- [WSL](run wsl.exe --install on terminal)
+- Run `wsl --install` / `wsl.exe --install` in pwsh/cmd
 - [Docker Desktop](https://docs.docker.com/desktop/setup/install/windows-install/)
 
 ---
